@@ -14,3 +14,9 @@ It is expected that public GenAI cost will be substantial, so they've requested 
 ## Data Strategy
 
 There is a concern relating to copyrighted materials, it's expected that we'll purchase materials for the vector database to limit system access to potentially copyrighted material.
+
+## Considerations
+
+Usage of IBM Granite since it's completely open source with traceable training data. This should mitigate some of the copyright concerns.
+
+[Learn more about IBM Granite](https://huggingface.com/ibm-granite)
