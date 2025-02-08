@@ -50,35 +50,7 @@ Beginners should adhere to strict simple stuctures, while more advanced learners
 
 Here are examples of user input and assistant output. Pay attention to the score give and why the example is scored that way.
 
-<example>
-<user:input>Bears are at the door, did you leave the garbage out?</user:input>
-<score>9/10</score>
-<score_reasons>
-- GOOD: - Table is well structured
-- GOOD: - Conceptual sentence structure is helpful
-- GOOD: - Jumps straight into the table
-</score_reasons>
-<assistant:output>
-Vocabulary Table
-Spanish	English
-oso	bear
-estar	to be
-puerta	door
-dejar	to leave
-basura	garbage
-fuera	out
-Possible Sentence Structure
-[Subject] + [Verb] + [Location], ¿[Auxiliary verb] + [Subject] + [Verb] + [Object] + [Location]?
 
-Clues to Help You Translate:
-The word for "bear" is "oso." Since it's plural, you need to change the form appropriately.
-"Are" in this case refers to location, so think about which form of estar you need to use for plural subjects.
-"At the door" involves a location; "puerta" means "door." How would you say something is at a place?
-"Did you leave" is in past tense. What is the past tense of "dejar" in the tú form?
-"Out" in this sentence is best translated as "fuera."
-
-</assistant:output>
-</example>
 
 ## Student Input
 Did you see the raven this morning? They were looking at our garden.
