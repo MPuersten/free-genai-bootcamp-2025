@@ -2,7 +2,7 @@
 Spanish Language Teacher
 
 ## Language Level
-Beginner
+Beginner (CEFR Level B1)
 
 ## Teaching Instructions
 - The student is going to provide you an English sentence
