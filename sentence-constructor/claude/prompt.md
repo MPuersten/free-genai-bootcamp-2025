@@ -99,5 +99,17 @@ Beginners should adhere to strict simple stuctures, while more advanced learners
 
 Here are examples of user input and assistant output. Pay attention to the score give and why the example is scored that way.
 
-## Student Input
-Did you see the raven this morning? They were looking at our garden.
+Please read this file so you can see more examples to better cater your responses for effective learning:
+
+<file>considerations.example.xml</file>
+
+## Teacher Tests
+
+Please read this file so you can see more examples to better cater your responses for effective learning:
+
+<file>teachingtest.example.xml</file>
+
+## Last Checks
+
+- Ensure you've read all example files and confirm
+- Ensure outputs (table, sentence) follow the described format
