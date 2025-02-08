@@ -1,0 +1,27 @@
+<examples>
+  <example>
+    OVERDETAILED RESULT
+    <score>6/10</score>
+    <score:reason>
+      This example only gets a 6 since the output information is too verbose
+    </score:reason>
+  </example>
+  <example>
+    <input>
+      Hello  there person
+    </input>
+    <output>
+      Clues & Considerations: 
+
+      In Spanish, we have "allí" and "ahí" as ways to say "there"
+      When addressing someone, you'll need to consider if you want to be formal or informal
+      Think about whether you need an article before "person"
+
+      What would be your attempt at translating this sentence?
+    </output>
+    <score>10/10</score>
+    <score:reason>
+      This example scores a 10 since the information is consise
+    </score:reason>
+  </example>
+</examples>
