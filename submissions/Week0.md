@@ -1,0 +1,19 @@
+Github Link to Sentence Constructor
+https://github.com/MPuersten/free-genai-bootcamp-2025/tree/main/sentence-constructor
+
+Github Link to GenAI Architecture
+https://github.com/MPuersten/free-genai-bootcamp-2025/tree/main/genai-architecting
+
+## Hypothesis and Technical Uncertainty
+It is expected that models that perform more reasoning will demonstrate more accurate outputs to what is described in the prompts. Of the agents explored, only ChatGPT o3-mini is leveraging more detail reasoning, therefore it's expected to follow instructions most consistently. It's expected that the remaining two models (Claude 3.5 Sonnet(free) and MetaAI(free)) will show comparable amounts of consistency while requiring some further tunning in order to provide useful prompts for learning Spanish. Across all agent models it's expected that as prompt size increases the accuracy to the described behaviour will go down due to a watering down of information, and an inability to tier instructions effectively.
+
+## Technical Exploration
+As discussed in the hypothesis three differe models were explore: ChatGPT 03-mini(Paid, Unlimited), Claude 3.5 Sonnet (Free), and MetaAI (Free). For each agent an investigation was done into how the agent responsed to more and more complex prompts with the target of having the agent teach a student the Spanish language. The agents were treated as hot-swapable and prompts were lifted between agents, creating bias in the investigation as performance of the agents was obfuscated. With MetaAI the basics of prompting were explored with a similar instruction set and example. ChatGPT was involved in a set of refining operations where we more firly structured the desired output and provided more context overall. Since Claude has a project store the investigation involved splitting the examples and teaching instructions into different files and leaning on the project folder to examine changes in model performance.
+Briefly describe the path of technical exploration during these projects.
+
+## Final Outcomes
+Interstingly each agent demonstrated relatively similar performance. Some fringe tests on lower-level agents (like haiku) revealed diminishing performance as parameter count was reduced and instruction size remained the same. This has early indications that prompt size as well as parameter count will both be factors in prompt instruction retention, and that less detailed instructions may be required for weaker agent to ensure critical instructions are not missed. Overall more powerful agent appear to be able to keep up with the prompt size relatively well, and consistently provide outputs acceptable for assisting in student learning.
+Describe your final outcomes or domain knowledge acquired.
+
+## Anything else you'd like to add
+Some further investigation revealed that Haiku used ~20B parameters, almost a quarter of the number used for Claude sonnet 3.5. It's been determined that while parameter count isn't a magic cure-all for accuracy when the count is increased, it does improve the ability for the model to process human speech (while driving up cost). We should likely add requirements relating to the quality of the education provided, since we can probably estimate how large a model we can run on a local machine and use the timelyness of responses to generate results in real-time. This leaves the quality of the response as the only variable so several different response qualities could be examined, then reported to stakeholders so they can give feedback. This is important for the project since if the initial prompts are not good enough the 10-15k funding for the project may be unreasonable, and this would be good to surface immediately.
