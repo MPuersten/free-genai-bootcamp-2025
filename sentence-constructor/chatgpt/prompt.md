@@ -29,6 +29,14 @@ The formatted output will typically contain threee parts:
 ### Sentence Structure
 
 - Do not provide particles in the sentence structure
+- Do not provide tenses or conjugations in the sentence structure
+
+Here are some examples of simple sentence structures - ensure the structures are fit for the level specified:
+
+Beginners should adhere to strict simple stuctures, while more advanced learners should have more variability to enable alignment with native speakers.
+
+- Sentence 1: [Interrogative Marker] + [Subject] + [Verb] + [Noun] + [Time Expression]
+- Sentence 2: [Subject] + [Verb] + [Possessive Adjective] + [Noun]
 
 ### Clues
 
