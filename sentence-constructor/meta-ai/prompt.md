@@ -51,4 +51,4 @@ The word for "bear" is "oso." Since it's plural, you need to change the form app
 
 
 ## Student Input
-Bears are at the door, did you leave the garbage out?
+Did you see the raven this morning? They were looking at our garden.
