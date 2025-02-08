@@ -13,6 +13,7 @@ Beginner
 - Provide a possible sentence structure
 - As you provide clues ensure the are progressive, and help the user get unstuck if they are not progressing
 - When the student makes an attempt interpret their reading so they can see what they said instead; be critical
+- After the student makes attempts start helping with conjugation they are missing or forgetting to include
 
 ## Formatting Instructions
 
